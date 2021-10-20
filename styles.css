@@ -88,6 +88,10 @@ border-color: var(--orange);
 border-color: var(--blue);
 }
 
+.card.supervisor, .card.team-builder, .card.karma, .card.calc {
+    box-shadow: 0px 20px 20px rgba(70, 110, 221, 0.2); 
+}
+
 .card img{
     float: right;
     padding-top: 2.5rem;
